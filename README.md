@@ -1,7 +1,14 @@
+# Visualization and Case Study
 
-# dddd
+**Q3**: The experiments are all done with the whole disentangled feature. It is better to demonstrate the separately that the common and private parts do learn common and private knowledge in real-world datasets as stated in Section 2.
 
-XXXX
+**A3**: We provide the case studies to verify the effectiveness of the learned common representation and private representation.
 
 
-This is yours!
+<p align="left">
+< img src= https://github.com/mujin2020/Casestudy/blob/main/Case-Study/Figures/example_graph0.png
+ width=100% />
+ < img src= https://github.com/mujin2020/Casestudy/blob/main/Case-Study/Figures/example_graph1.png
+ width=100% />
+ <span><b>Figure 1. Toy dataset and corresponding node correlation maps of the learned common and private representations. The toy dataset is randomly sampled with the same nodes set from PSP and PAP graphs of the ACM dataset, respectively, and different colors indicate different node labels.</b></span>
+ </p >
