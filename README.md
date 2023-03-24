@@ -6,9 +6,9 @@
 
 
 <p align="left">
-< img src= https://github.com/mujin2020/Casestudy/blob/main/Case-Study/Figures/example_graph0.png
+< img src= https://github.com/Susie9803/Anonymous-material/tree/main/Rebuttal/DSIMVC_V1.png
  width=100% />
- < img src= https://github.com/mujin2020/Casestudy/blob/main/Case-Study/Figures/example_graph1.png
+ < img src= https://github.com/Susie9803/Anonymous-material/tree/main/Rebuttal/DSIMVC_V2.png
  width=100% />
  <span><b>Figure 1. Toy dataset and corresponding node correlation maps of the learned common and private representations. The toy dataset is randomly sampled with the same nodes set from PSP and PAP graphs of the ACM dataset, respectively, and different colors indicate different node labels.</b></span>
  </p >
