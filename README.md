@@ -1,1 +1,1 @@
-Please see the PDF.
+Please download and see the PDF.
